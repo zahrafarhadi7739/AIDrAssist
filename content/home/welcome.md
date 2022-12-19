@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+In **Dr Assistant**, we provide AI-based solutions for medical problems. Our goal is to develop software that can assist doctors in making better decisions and aid them in analyzing medical images to make diagnoses more efficient and accurate.
